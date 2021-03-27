@@ -1,0 +1,69 @@
+.all{
+    display: flex;
+}
+
+.azerbaycan{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+}
+
+.baku{
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    
+}
+.baku img{
+    background-size: contain;
+    height: 70px;
+    width: 130px;
+    cursor: pointer;
+}
+
+.turkiye{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+}
+
+.istanbul{
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    
+}
+.istanbul img{
+    background-size: contain;
+    height: 70px;
+    width: 130px;
+    cursor: pointer;
+}
+
+.almanya{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+}
+
+.berlin{
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    
+}
+.berlin img{
+    background-size: contain;
+    height: 70px;
+    width: 130px;
+    cursor: pointer;
+}
